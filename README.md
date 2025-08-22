@@ -4,6 +4,8 @@
 <a href="https://github.com/Chapuzas-SA/gTLSInfo/releases"><img src="https://img.shields.io/github/release/Chapuzas-SA/gTLSInfo"></a>
 </p>
 <hr>
-- Obtener información TLSx/SSL/HTTP de entidades indicadas por STDIN (Exclusivamente)  
-- Entidades válidas: ASNXXX, CIDR, IP, HOSTNAME. Similar a tlsx de projectdiscovery  
-- cat ejemplos.txt | ./gTLSInfo | jq  
+<p>Obtener información TLSx/SSL/HTTP de entidades indicadas por STDIN (Exclusivamente)  </p>
+  
+<p>Entidades válidas: ASNXXX, CIDR, IP, HOSTNAME. Similar a tlsx de projectdiscovery  </p>
+
+<p>cat ejemplos.txt | ./gTLSInfo | jq  </p>
